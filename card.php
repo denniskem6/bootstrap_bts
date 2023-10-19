@@ -15,10 +15,10 @@
                     <div class="card-header mb-3">
                         <ul class="nav nav-pills card-header-pills">
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="true" href="./alert.html">Next Item</a>
+                                <a class="nav-link active" aria-current="true" href="alert.php">Next Item</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" aria-current="true" href="./button.html">Previous</a>
+                                <a class="nav-link" aria-current="true" href="accordion.php">Previous</a>
                             </li>
                         </ul>
                     </div>
@@ -60,6 +60,7 @@
                                         <small class="text-body-secondary">Last updated 5 mins ago</small>
                                     </div>
                             </div>
+
                             <div class="card">
                                 <img src="./images/product-image-1.jpg" class="card-img-top" alt="...">
                                 <div class="card-body">
@@ -71,6 +72,7 @@
                                     </ul>
                                 </div>
                             </div>
+
                         </div>
                     </div>
                 </div>
